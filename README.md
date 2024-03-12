@@ -1,8 +1,8 @@
-<img src="https://github.com/Man-Ven-Dra/Man-Ven-Dra/blob/main/b4e371619042d1e80918d09904e90f7d.gif" alt="logo" height="200px" width="100%"/>
+<img src="https://github.com/Man-Ven-Dra/Man-Ven-Dra/blob/main/b4e371619042d1e80918d09904e90f7d.gif" alt="logo" height="180px" width="100%"/>
 <h1 align="center">Hi 👋, I'm Manvendra Singh Chauhan</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India. GET SET CODE!</h3>
 
-<img align="right" alt="coding....." width ="400" src="https://imgs.search.brave.com/XJQ1rtOk3UKwtjXYA5HFbxP0pNKOMcuY4234_ojkBYU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTIuZ2lwaHkuY29t/L21lZGlhL25HTW5E/cWViekRjZm0vZ2lw/aHkuZ2lmP2NpZD03/OTBiNzYxMWVlOTBt/eWh5eGdoMnBrc2Fu/cWN4cHhuc292bDB5/ODc3ajlyYmpnb24m/ZXA9djFfZ2lmc19z/ZWFyY2gmcmlkPWdp/cGh5LmdpZiZjdD1n.gif"/>
+<img align="right" alt="coding....." width ="300" src="https://github.com/Man-Ven-Dra/Man-Ven-Dra/blob/main/previewfile_2217383700.gif?raw=true"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=man-ven-dra&label=Profile%20views&color=0e75b6&style=flat" alt="man-ven-dra" /> </p>
 
